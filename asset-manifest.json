@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/employee-table/static/css/main.e6c13ad2.css",
+    "main.js": "/employee-table/static/js/main.0c2dc197.js",
+    "index.html": "/employee-table/index.html",
+    "main.e6c13ad2.css.map": "/employee-table/static/css/main.e6c13ad2.css.map",
+    "main.0c2dc197.js.map": "/employee-table/static/js/main.0c2dc197.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.0c2dc197.js"
+  ]
+}
